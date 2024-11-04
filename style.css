@@ -1,11 +1,11 @@
 body{
-    color: green;
+    color: white;
     background: black;
     margin: 0px;
 }
 header{
-    border-bottom: solid 2px green;
+    border-bottom: solid 2px white;
     padding: 20px;
     font-size: 32px;
-    color: white;
+    color: green;
 }
