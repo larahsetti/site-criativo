@@ -37,4 +37,5 @@ img {
 
 .cateoria-videos {
     display: flex;
+    overflow: auto;
 }
