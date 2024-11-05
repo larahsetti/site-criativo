@@ -7,9 +7,9 @@ header{
     border-bottom: solid 2px rgb(7, 7, 63);
     padding: 20px;
     font-size: 32px;
-    color: #044f04;
+    color: rgb(7, 7, 63);
 }
 
 section {
-    background: rgb(7, 7, 63);
+    background: #010d27;
 }
