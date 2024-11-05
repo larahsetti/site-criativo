@@ -2,6 +2,7 @@ body{
     color: whitesmoke;
     background: black;
     margin: 0px;
+    font-family: "Anton SC", sans-serif;
 }
 header{
     border-bottom: solid 2px rgb(7, 7, 63);
