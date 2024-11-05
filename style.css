@@ -4,12 +4,12 @@ body{
     margin: 0px;
 }
 header{
-    border-bottom: solid 2px green;
+    border-bottom: solid 2px #044f04;
     padding: 20px;
     font-size: 32px;
-    color: green;
+    color: #044f04;
 }
 
 section {
-    background: #044f04;
+    background: green;
 }
